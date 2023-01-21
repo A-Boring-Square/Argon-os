@@ -26,6 +26,7 @@ print("""
  ██   ██ ██   ██  ██████   █████  ██   ███      █████  ██████   ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʏᴛʜᴏɴ 
 """)
 print(" ")
+print("disclaimer Argon os is not complete and features are subject to change")
 print(" ")
 print("WELCOME " + l_n)
 print(" ")
