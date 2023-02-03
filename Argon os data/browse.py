@@ -202,8 +202,8 @@ class MainWindow(QMainWindow):
 
 
 app = QApplication(sys.argv)
-app.setApplicationName("Cyber-Browse")
-app.setOrganizationName("Cyber")
+app.setApplicationName("Argon-os Web Browser")
+app.setOrganizationName("Argon-os")
 app.setOrganizationDomain("Cybercode.com")
 
 
